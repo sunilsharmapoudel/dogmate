@@ -182,3 +182,7 @@ h1,h2,h3,h4{
 #footer > p {
     margin-top: 20px;
 }
+
+.author {
+    text-decoration: none;
+}
