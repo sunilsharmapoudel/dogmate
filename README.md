@@ -26,7 +26,7 @@ Moile Screenshot
 
 ### Links
 
-- Live Site URL: [https://sunilsharmapoudel.github.io/dogmate/](https://sunilsharmapoudel.github.io/qrcomponent/)
+- Live Site URL: [https://sunilsharmapoudel.github.io/dogmate/](https://sunilsharmapoudel.github.io/dogmate/)
 
 ### Built with
 
